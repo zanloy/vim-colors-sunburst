@@ -129,9 +129,9 @@ exe 'hi Type gui=NONE ctermfg='.s:T_Conifer.' guifg='.s:G_Conifer
 " Mode-specific syntax highlighting
 exe 'hi phpFunctions ctermfg='.s:T_Brandy.' guifg='.s:G_Brandy
 exe 'hi pythonBuiltin ctermfg='.s:T_Brandy.' guifg='.s:G_Brandy
-exe 'hi rubyClass ctermfg='.s:T_Terracotta.''.s:G_Terracotta
-exe 'hi rubyDefine ctermfg='.s:T_Terracotta.''.s:G_Terracotta
-exe 'hi rubyInclude ctermfg='.s:T_Terracotta.''.s:G_Terracotta
+exe 'hi rubyClass ctermfg='.s:T_Terracotta.' guifg='.s:G_Terracotta
+exe 'hi rubyDefine ctermfg='.s:T_Terracotta.' guifg='.s:G_Terracotta
+exe 'hi rubyInclude ctermfg='.s:T_Terracotta.' guifg='.s:G_Terracotta
 exe 'hi rubyInterpolation ctermfg='.s:T_Primrose.' guifg='.s:G_Primrose
 exe 'hi rubyInterpolationDelimiter ctermfg='.s:T_Primrose.' guifg='.s:G_Primrose
 exe 'hi rubyRegexp ctermfg='.s:T_Porsche.' guifg='.s:G_Porsche
